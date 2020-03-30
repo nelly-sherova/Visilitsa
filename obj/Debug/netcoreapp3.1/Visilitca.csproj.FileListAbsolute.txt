@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\My Projects\Visilitca\bin\Debug\netcoreapp3.1\Visilitca.exe
+C:\Users\ASUS\Desktop\My Projects\Visilitca\bin\Debug\netcoreapp3.1\Visilitca.deps.json
+C:\Users\ASUS\Desktop\My Projects\Visilitca\bin\Debug\netcoreapp3.1\Visilitca.runtimeconfig.json
+C:\Users\ASUS\Desktop\My Projects\Visilitca\bin\Debug\netcoreapp3.1\Visilitca.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\My Projects\Visilitca\bin\Debug\netcoreapp3.1\Visilitca.dll
+C:\Users\ASUS\Desktop\My Projects\Visilitca\bin\Debug\netcoreapp3.1\Visilitca.pdb
+C:\Users\ASUS\Desktop\My Projects\Visilitca\obj\Debug\netcoreapp3.1\Visilitca.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\My Projects\Visilitca\obj\Debug\netcoreapp3.1\Visilitca.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\My Projects\Visilitca\obj\Debug\netcoreapp3.1\Visilitca.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\My Projects\Visilitca\obj\Debug\netcoreapp3.1\Visilitca.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\My Projects\Visilitca\obj\Debug\netcoreapp3.1\Visilitca.dll
+C:\Users\ASUS\Desktop\My Projects\Visilitca\obj\Debug\netcoreapp3.1\Visilitca.pdb
+C:\Users\ASUS\Desktop\My Projects\Visilitca\obj\Debug\netcoreapp3.1\Visilitca.genruntimeconfig.cache
